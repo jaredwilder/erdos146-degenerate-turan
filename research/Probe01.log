@@ -1,0 +1,12 @@
+r : ℕ
+a : Fin r
+w : Fin r ⊕ Fin r
+⊢ w.isRight = true ↔ ∃ y, Sum.inr y = w
+/root/peer/sub-146/Probe01.lean:8:0: warning: declaration uses `sorry`
+r : ℕ
+b : Fin r
+w : Fin r ⊕ Fin r
+⊢ w.isLeft = true ↔ ∃ y, Sum.inl y = w
+/root/peer/sub-146/Probe01.lean:17:0: warning: declaration uses `sorry`
+/root/peer/sub-146/Probe01.lean:31:4: error: No goals to be solved
+

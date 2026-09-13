@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-13",
+  "byte_integrity": {
+    "result": "PASS",
+    "source_files": 11
+  },
+  "fresh_lean_build": false,
+  "historical_named_axiom_checks": {
+    "Attack01": 26,
+    "Attack02": 11,
+    "Attack03": 14
+  },
+  "excluded_probe": "research/Probe01.lean"
+}

@@ -1,0 +1,84 @@
+{
+  "source_repo": "jaredwilder/erdos-campaign-archive",
+  "source_commit": "dad8bf3925ec7584a2e782b06e102e54587c2094",
+  "source_prefix": "campaigns/erdos146-attack-2026-09-05",
+  "files": [
+    {
+      "source_path": "campaigns/erdos146-attack-2026-09-05/Attack01.lean",
+      "destination": "research/Attack01.lean",
+      "source_blob": "3e7fb2d530af5726460b0abbaddce8b2c0f05215",
+      "sha256": "44862ef9e6bf91dd3dc85fbd25cfc06eb710da9b4b1ece2c63d928adf7130aa8",
+      "bytes": 22264
+    },
+    {
+      "source_path": "campaigns/erdos146-attack-2026-09-05/Attack01.log",
+      "destination": "research/Attack01.log",
+      "source_blob": "b8e6ea33d6be3bacde6a5488b41c4cb77fc7823d",
+      "sha256": "7fce8ec50ec233396b01d3e1ec00d9661b03f0fd91fff266c4d03496788f65b8",
+      "bytes": 2553
+    },
+    {
+      "source_path": "campaigns/erdos146-attack-2026-09-05/Attack02.lean",
+      "destination": "research/Attack02.lean",
+      "source_blob": "6e8330c7485f203795b9047df295e70fb4630611",
+      "sha256": "4608db7053fe45387ad640348dcb507ef8cd879a78dbf3c30d6b27c08a92667f",
+      "bytes": 7281
+    },
+    {
+      "source_path": "campaigns/erdos146-attack-2026-09-05/Attack02.log",
+      "destination": "research/Attack02.log",
+      "source_blob": "abe40aae19b5d26634c97d53fb7e06ac7fb62365",
+      "sha256": "f5a8b520fd2f020f2d0161f19f2fdbe8d03c654ee97bbf77f69ffc276424bc50",
+      "bytes": 1059
+    },
+    {
+      "source_path": "campaigns/erdos146-attack-2026-09-05/Attack03.lean",
+      "destination": "research/Attack03.lean",
+      "source_blob": "9ea44f939c56d5caece6c8cc5b0e564e6f4ec2de",
+      "sha256": "6380fe8dbc4f61918d2d2bbacaa908aecdad274b42852a08eeed5b047d798c7c",
+      "bytes": 16952
+    },
+    {
+      "source_path": "campaigns/erdos146-attack-2026-09-05/Attack03.log",
+      "destination": "research/Attack03.log",
+      "source_blob": "1b0a98df91404384f7d65422e48a082b68f49700",
+      "sha256": "20f3df48d9bf19662b38037617cb627a675a9b93cb0cace630a8d837e6a84907",
+      "bytes": 1340
+    },
+    {
+      "source_path": "campaigns/erdos146-attack-2026-09-05/Probe01.lean",
+      "destination": "research/Probe01.lean",
+      "source_blob": "d2c3dda6576713bc19d5571809658ccdb00bccb8",
+      "sha256": "d6cb788330092c025f4bfd7bbd0de4ea6ebe0b66b0258b64a843f4dcccc8cd2e",
+      "bytes": 1544
+    },
+    {
+      "source_path": "campaigns/erdos146-attack-2026-09-05/Probe01.log",
+      "destination": "research/Probe01.log",
+      "source_blob": "af9542ae0a69846560fed257216afc9bb01a3032",
+      "sha256": "0a028d17618f1bf01c9d33c41973c46a3d24000ff0120f3713544c893c7eac79",
+      "bytes": 378
+    },
+    {
+      "source_path": "campaigns/erdos146-attack-2026-09-05/TERMINAL-attack03.json",
+      "destination": "research/TERMINAL-attack03.json",
+      "source_blob": "24bdc56ae9eb15f9617773ae50dc08cceec2dbc9",
+      "sha256": "7763be48b62f42e92a763f98006c473b64b14af1ea3d8636e3dbde4d48853645",
+      "bytes": 20674
+    },
+    {
+      "source_path": "campaigns/erdos146-attack-2026-09-05/TERMINAL.json",
+      "destination": "research/TERMINAL.json",
+      "source_blob": "b92209829c4758d0389cc79a83bb263fe46e620d",
+      "sha256": "e904fedf4693fd2583c985aebf3ec11eca2bf76eadd064482db0104d5d6fce31",
+      "bytes": 10838
+    },
+    {
+      "source_path": "LICENSE",
+      "destination": "LICENSE",
+      "source_blob": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "bytes": 11358
+    }
+  ]
+}
