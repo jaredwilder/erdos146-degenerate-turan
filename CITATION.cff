@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "Erdos #146: degenerate Turan bounds"
+authors:
+  - family-names: "Wilder"
+    given-names: "Jared"
+type: software
+repository-code: "https://github.com/jaredwilder/erdos146-degenerate-turan"
+license: Apache-2.0
